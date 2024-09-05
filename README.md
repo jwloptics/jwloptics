@@ -1,12 +1,12 @@
-Name:
-  Jaewhan Lee
+Name: \\
+\t Jaewhan Lee
 
-Affiliation:
-  KRISS-KAIST Graduate School of Quantum Science and Technology
+Affiliation: \\
+\t KRISS-KAIST Graduate School of Quantum Science and Technology
 
-Status:
-   PhD student
+Status: \
+\t PhD student
 
-Reseach topics:
-  1. Engineering a quantum state through the interaction between an atom and a nanophotonic cavity.
-  2. Near-field beam shaping on a silicon-nitride photonic chip.
+Reseach topics: \\
+- Engineering a quantum state through the interaction between an atom and a nanophotonic cavity.
+- Near-field beam shaping on a silicon-nitride photonic chip.
