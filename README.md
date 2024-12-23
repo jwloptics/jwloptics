@@ -4,7 +4,7 @@
 I am currently pursuing my PhD in Quantum Science and Technology, with a strong focus on research in the following areas:
 
 ## Research Interests:
-- **Atomic Clock on Nanophotonics**  
+- **Atomic Clocks with Nanophotonics**  
   I aim to utilize nanophotonics from Rubidium two-photon clocks to strontium optical lattice clocks.
   
 - **Near-Field Beam Shaping on Silicon-Nitride Photonic Chips**  
