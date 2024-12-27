@@ -44,8 +44,7 @@
 ---
 
 ## 🎤 Conferences and Presentations
-- *"Integrated Photonic In-Plane Beam Converter for Bessel-Gaussian Beam Generation,"*  
-  The 25th European Conference on Integrated Optics, 2024.  
+- *"Integrated Photonic In-Plane Beam Converter for Bessel-Gaussian Beam Generation,"* The 25th European Conference on Integrated Optics, 2024.  
 
 ---
 
