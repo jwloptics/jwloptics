@@ -32,8 +32,7 @@
 ---
 
 ## 📄 Publications
-1. **Lee, J.**, Lee, J. & Kim, S. *Integrated Photonic In-Plane Beam Converter for Bessel-Gaussian Beam Generation.*  
-   in **The 25th European Conference on Integrated Optics** (eds. Witzens, J., Poon, J., Zimmermann, L. & Freude, W.) 540–544 (Springer Nature Switzerland, Cham, 2024)
+1. **Lee, J.**, Lee, J. & Kim, S. *Integrated Photonic In-Plane Beam Converter for Bessel-Gaussian Beam Generation.* in **The 25th European Conference on Integrated Optics** (eds. Witzens, J., Poon, J., Zimmermann, L. & Freude, W.) 540–544 (Springer Nature Switzerland, Cham, 2024)
 
 ---
 
