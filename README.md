@@ -8,7 +8,7 @@
 
 ## Research Interests
 
-- Advancing atomic clocks with nanophotonic technology (e.g., Rubidium two-photon clocks and strontium optical lattice clocks).
+- Advancing atomic clocks with nanophotonic technologies (e.g., Rubidium two-photon clocks and strontium optical lattice clocks).
 
 ## Education
 
